@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+    color: aqua;
+}
+
+span{
+    animation:blinker 1s linear infinite;
+}
